@@ -4,9 +4,9 @@ A website that uses APIs to get the weather (temperature, humidity, and wind spe
 
 ## Languages Used
 - HTML
-- CSS (Bootsrap CSS)
-- JavaScript (jQuery, Popper.js, Bootstrap JS)
-- Python (Flask)
+- CSS
+- JavaScript
+- Python
 
 
 ## Screenshots
