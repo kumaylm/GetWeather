@@ -2,7 +2,7 @@
 
 A website that uses APIs to get the weather (temperature, humidity, and wind speed) of a certain location.
 
-## Languages Used
+## Languages Implemented
 - HTML
 - CSS
 - JavaScript
